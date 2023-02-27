@@ -76,7 +76,7 @@
  </ul>
  
  
- <h3>Cryptography</h3>
+ <h3>Cryptography books</h3>
  
  <ul>
  
@@ -86,7 +86,7 @@
  </ul>
  
  
- <h3>other best books  </h3>
+ <h3>Other best books  </h3>
  
  <ul>
  
@@ -94,7 +94,7 @@
   <li>The tangled web <a href="">Download</a> </li>
   <li>Inside cyber warfare <a href="">Download</a> </li>
   <li>The art of deception <a href="">Download</a> </li>
-  <li>The art of invisibility<a href="">Download</a> </li>
+  <li>The art of invisibility <a href="">Download</a> </li>
   <li>Attacking network protocols <a href="">Download</a> </li>
   <li>ghost in the wires kevin mitnick <a href="">Download</a> </li>
   <li>Hacking for dummies, 4th edition <a href="">Download</a> </li>
