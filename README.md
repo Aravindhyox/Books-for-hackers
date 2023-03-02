@@ -33,14 +33,14 @@
  <ul>
  
   <li>Android hacker's handbook <a href="">Download</a> </li>
-  <li>Android security internals an in depth guide to sndroid security architecture  <a href="">Download</a> </li>
+  <li>Android security internals an in depth guide to android security architecture  <a href="">Download</a> </li>
   <li>The mobile application hacker's handbook <a href="">Download</a> </li>
   
  
  </ul>
  
  
- <h3>Social engineering books</h3>
+ <h3>Social engineering books:</h3>
  
  <ul>
  
@@ -51,7 +51,7 @@
  </ul>
  
  
- <h3>Programing books for hackers</h3>
+ <h3>Programing books for hackers:</h3>
  
  <ul>
  
@@ -65,14 +65,14 @@
  
  
 
- <h3>Car hacking books</h3>
+ <h3>Car hacking books:</h3>
  
  <ul>
   <li>The car hackers handbook <a href="">Download</a> </li>
  </ul>
  
  
- <h3>Game hacking books</h3>
+ <h3>Game hacking books:</h3>
  
  <ul>
  
@@ -81,7 +81,7 @@
  </ul>
  
  
- <h3>Cryptography books</h3>
+ <h3>Cryptography books:</h3>
  
  <ul>
  
@@ -91,7 +91,7 @@
  </ul>
  
  
- <h3>Other best books  </h3>
+ <h3>Other best books:</h3>
  
  <ul>
  
