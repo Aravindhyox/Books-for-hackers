@@ -58,6 +58,8 @@
   <li>Black hat Go, Go programming for hackers and pentesters <a href="">Download</a> </li>
   <li>Black hat python, 2nd edition <a href="">Download</a> </li>
   <li>Gray hat C sharp <a href="">Download</a> </li>
+  <li>Python For Kids <a href="">Download</a> </li>
+  
  
  </ul>
  
