@@ -4,7 +4,9 @@
 
  <ul>
  
-  <li>Web application hackers handbook <a href="https://github.com/Aravindhyox01/Books-for-hackers/blob/main/Hacking%20Books/Web%20application%20hackers%20handbook.pdf">Download</a> </li>
+  <li>Web application hackers handbook <a href="">Download</a> </li>
+  <li>Bug bounty bootcamp <a href="">Download</a> </li>
+  <li>breaking into infosec <a href="">Download</a> </li>
   <li>Web hacking101 <a href="">Download</a> </li>
   <li>Real world bug hunting <a href="">Download</a> </li>
   <li>A bug hunter's diary <a href="">Download</a> </li>
@@ -21,6 +23,7 @@
  <ul>
  
   <li>Linux basics for hackers <a href="">Download</a> </li>
+  <li>linux cmds handbook <a href="">Download</a> </li>
  
  </ul>
  
@@ -29,7 +32,7 @@
  
  <ul>
  
-  <li>Android hacker-s handbook <a href="">Download</a> </li>
+  <li>Android hacker's handbook <a href="">Download</a> </li>
   <li>Android security internals an in depth guide to sndroid security architecture  <a href="">Download</a> </li>
   <li>The mobile application hacker's handbook <a href="">Download</a> </li>
   
@@ -81,7 +84,7 @@
  <ul>
  
   <li>Serious cryptography a practical introduction to modern encryption <a href="">Download</a> </li>
-
+  <li>Crypto101 <a href="">Download</a> </li>
  
  </ul>
  
