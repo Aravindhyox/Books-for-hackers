@@ -4,16 +4,16 @@
 
  <ul>
  
-  <li>Web application hackers handbook <a href="">Download</a> </li>
-  <li>Bug bounty bootcamp <a href="">Download</a> </li>
-  <li>breaking into infosec <a href="">Download</a> </li>
-  <li>Web hacking101 <a href="">Download</a> </li>
-  <li>Real world bug hunting <a href="">Download</a> </li>
-  <li>A bug hunter's diary <a href="">Download</a> </li>
-  <li>bug bounty play book <a href="">Download</a> </li>
-  <li>Metasploit the penetration tester's guide <a href="">Download</a> </li>
-  <li>Penetration testing a hands-on introduction to hacking <a href="">Download</a> </li>
-  <li>The hacker playbook 3 practical guide to penetration testing <a href="">Download</a> </li>
+  <li>Web application hackers handbook <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/Web%20application%20hackers%20handbook.pdf">Download</a> </li>
+  <li>Bug bounty bootcamp <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/bug-bounty-bootcamp.pdf">Download</a> </li>
+  <li>breaking into infosec <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/breaking%20into%20infosec%20.pdf">Download</a> </li>
+  <li>Web hacking101 <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/web%20hacking101.pdf">Download</a> </li>
+  <li>Real world bug hunting <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/Real-World-Bug-Hunting.pdf">Download</a> </li>
+  <li>A bug hunter's diary <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/A%20Bug%20Hunter's%20Diary%20.pdf">Download</a> </li>
+  <li>bug bounty play book <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/Bug%20Bounty%20Playbook.pdf">Download</a> </li>
+  <li>Metasploit the penetration tester's guide <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/Metasploit%20the%20penetration%20tester's%20guide.pdf">Download</a> </li>
+  <li>Penetration testing a hands-on introduction to hacking <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/Penetration%20Testing%20A%20Hands-On%20Introduction%20to%20Hacking.pdf">Download</a> </li>
+  <li>The hacker playbook 3 practical guide to penetration testing <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/The%20Hacker%20Playbook%203%20Practical%20Guide%20To%20Penetration%20Testing.pdf">Download</a> </li>
 
   
  </ul>
@@ -22,8 +22,8 @@
  
  <ul>
  
-  <li>Linux basics for hackers <a href="">Download</a> </li>
-  <li>linux cmds handbook <a href="">Download</a> </li>
+  <li>Linux basics for hackers <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/Linux%20Basics%20for%20Hackers.pdf">Download</a> </li>
+  <li>linux cmds handbook <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/linux%20cmds%20handbook.pdf">Download</a> </li>
  
  </ul>
  
@@ -32,9 +32,9 @@
  
  <ul>
  
-  <li>Android hacker's handbook <a href="">Download</a> </li>
-  <li>Android security internals an in depth guide to android security architecture  <a href="">Download</a> </li>
-  <li>The mobile application hacker's handbook <a href="">Download</a> </li>
+  <li>Android hacker's handbook <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/Android%20Hacker-s%20Handbook.pdf">Download</a> </li>
+  <li>Android security internals an in depth guide to android security architecture  <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/Android%20Security%20Internals%20An%20In%20Depth%20Guide%20to%20Android%20Security%20Architecture%20.pdf">Download</a> </li>
+  <li>The mobile application hacker's handbook <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/The%20Mobile%20Application%20Hacker's%20Handbook%20.pdf">Download</a> </li>
   
  
  </ul>
@@ -44,8 +44,8 @@
  
  <ul>
  
-  <li>Social engineering the art of human hacking <a href="">Download</a> </li>
-  <li>Social engineering the science of human hacking 2nd edition <a href="">Download</a> </li>
+  <li>Social engineering the art of human hacking <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/Social%20engineering%20the%20art%20of%20human%20hacking.pdf">Download</a> </li>
+  <li>Social engineering the science of human hacking 2nd edition <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/Social%20Engineering%20The%20Science%20of%20Human%20Hacking%202nd%20Edition.pdf">Download</a> </li>
   
  
  </ul>
@@ -55,10 +55,10 @@
  
  <ul>
  
-  <li>Black hat Go, Go programming for hackers and pentesters <a href="">Download</a> </li>
-  <li>Black hat python, 2nd edition <a href="">Download</a> </li>
-  <li>Gray hat C sharp <a href="">Download</a> </li>
-  <li>Python For Kids <a href="">Download</a> </li>
+  <li>Black hat Go, Go programming for hackers and pentesters <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/Black%20Hat%20Go%20Go%20Programming%20For%20Hackers%20and%20Pentesters.pdf">Download</a> </li>
+  <li>Black hat python, 2nd edition <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/Black%20Hat%20Python%2C%202nd%20Edition.pdf">Download</a> </li>
+  <li>Gray hat C sharp <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/Gray%20Hat%20C%20Sharp.pdf">Download</a> </li>
+  <li>Python For Kids <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/Python%20For%20Kids.pdf">Download</a> </li>
   
  
  </ul>
@@ -68,7 +68,7 @@
  <h3>Car hacking books:</h3>
  
  <ul>
-  <li>The car hackers handbook <a href="">Download</a> </li>
+  <li>The car hackers handbook <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/thecarhackershandbook.pdf">Download</a> </li>
  </ul>
  
  
@@ -76,7 +76,7 @@
  
  <ul>
  
-  <li>Game hacking developing autonomous bots for online games <a href="">Download</a> </li>
+  <li>Game hacking developing autonomous bots for online games <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/Game%20Hacking%20Developing%20Autonomous%20Bots%20for%20Online%20Games.pdf">Download</a> </li>
   
  </ul>
  
@@ -85,8 +85,8 @@
  
  <ul>
  
-  <li>Serious cryptography a practical introduction to modern encryption <a href="">Download</a> </li>
-  <li>Crypto101 <a href="">Download</a> </li>
+  <li>Serious cryptography a practical introduction to modern encryption <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/Serious%20Cryptography%20A%20Practical%20Introduction%20to%20Modern%20Encryption%20.pdf">Download</a> </li>
+  <li>Crypto101 <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/Crypto101.pdf">Download</a> </li>
  
  </ul>
  
@@ -95,18 +95,17 @@
  
  <ul>
  
-  <li>RTFM <a href="">Download</a> </li>
-  <li>The tangled web <a href="">Download</a> </li>
-  <li>Inside cyber warfare <a href="">Download</a> </li>
-  <li>The art of deception <a href="">Download</a> </li>
-  <li>The art of invisibility <a href="">Download</a> </li>
-  <li>Attacking network protocols <a href="">Download</a> </li>
-  <li>ghost in the wires kevin mitnick <a href="">Download</a> </li>
-  <li>Hacking for dummies, 4th edition <a href="">Download</a> </li>
-  <li>Hacking the art of exploitation 2nd edition <a href="">Download</a> </li>
-  <li>Hash crack - password cracking manual v2 <a href="">Download</a> </li>
-  <li>How software works the magic behind encryption, CGI, search engines, and other everyday technologies  <a href="">Download</a> </li>
- 
+  <li>RTFM <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/RTFM.pdf">Download</a> </li>
+  <li>The tangled web <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/The%20tangled%20web.pdf">Download</a> </li>
+  <li>Inside cyber warfare <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/Inside%20Cyber%20Warfare.pdf">Download</a> </li>
+  <li>The art of deception <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/The%20Art%20of%20Deception.pdf">Download</a> </li>
+  <li>The art of invisibility <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/The%20Art%20of%20Invisibility.pdf">Download</a> </li>
+  <li>Attacking network protocols <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/Attacking%20network%20protocols.pdf">Download</a> </li>
+  <li>ghost in the wires kevin mitnick <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/ghost-in-the-wires-kevin-mitnick.pdf">Download</a> </li>
+  <li>Hacking for dummies, 4th edition <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/Hacking%20For%20Dummies%2C%204th%20Edition.pdf">Download</a> </li>
+  <li>Hacking the art of exploitation 2nd edition <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/Hacking%20The%20Art%20of%20Exploitation%202nd%20Edition.pdf">Download</a> </li>
+  <li>Hash crack - password cracking manual v2 <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/Hash%20Crack%20-%20Password%20Cracking%20Manual%20v2.pdf">Download</a> </li>
+  <li>How software works the magic behind encryption, CGI, search engines, and other everyday technologies  <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/How%20software%20works%20the%20magic%20behind%20encryption%2C%20CGI%2C%20search%20engines%2C%20and%20other%20everyday%20technologies%20.pdf">Download</a> </li>
  
  </ul>
 
