@@ -130,11 +130,11 @@
  </ul>
 
 
-<a href="https://t.me/booksforhackers101">
-				<i class="fa fa-telegram  social" title="telegram" ></i>
-			</a>
+
  
- 
+ <footer class="footer">
+		<a href="https://t.me/booksforhackers101">Telegram</a>		
+	</footer>
  
  
  <!--
