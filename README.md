@@ -132,9 +132,7 @@
 
 
  
- <footer class="footer">
-		<a href="https://t.me/booksforhackers101">Telegram</a>		
-	</footer>
+ <li>For more books <a href="https://t.me/booksforhackers101">Telegram</a> </li>
  
  
  <!--
