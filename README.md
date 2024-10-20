@@ -10,7 +10,7 @@
 
   <li>Real world bug hunting <a href="https://github.com/Aravindhyox/Books-for-hackers/blob/main/Book's/Real-World-Bug-Hunting.pdf">Download</a> (or) <a href="https://amzn.to/3YgLyqu">Buy.</a></li>
 
-  <li>Book <a href="https://github.com/Aravindhyox/Books-for-hackers/blob/main/Book's/A%20Bug%20Hunter's%20Diary%20.pdf">Download</a> (or) <a href="https://amzn.to/3UfDDbZ">Buy.</a></li>
+  <li>A bug hunter's diary <a href="https://github.com/Aravindhyox/Books-for-hackers/blob/main/Book's/A%20Bug%20Hunter's%20Diary%20.pdf">Download</a> (or) <a href="https://amzn.to/3UfDDbZ">Buy.</a></li>
 
   <li>Metasploit the penetration tester's guide <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/Metasploit%20the%20penetration%20tester's%20guide.pdf">Download</a> (or) <a href="https://amzn.to/3YyysFt">Buy.</a></li>
 
