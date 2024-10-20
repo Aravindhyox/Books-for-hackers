@@ -4,7 +4,7 @@
 
  <ul>
  
-  <li>Web application hackers handbook <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/Web%20application%20hackers%20handbook.pdf">Download</a> </li>
+  <li>Web application hackers handbook <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/Web%20application%20hackers%20handbook.pdf">Download</a> <a href="https://amzn.in/d/fgqxL9f"></a>Buyit.</li>
   
   <li>Bug bounty bootcamp <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/bug-bounty-bootcamp.pdf">Download</a> </li>
 
