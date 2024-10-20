@@ -8,7 +8,7 @@
   
   <li>Bug bounty bootcamp <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/bug-bounty-bootcamp.pdf">Download</a> </li>
 
-  <li>bug bounty play book <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/Bug%20Bounty%20Playbook.pdf">Download</a> </li>
+  <li>Real world bug hunting <a href="https://github.com/Aravindhyox/Books-for-hackers/blob/main/Book's/Real-World-Bug-Hunting.pdf">Download</a> </li>
 
   <li>Metasploit the penetration tester's guide <a href="https://github.com/Aravindhyox01/Books-for-hackers/raw/main/Book's/Metasploit%20the%20penetration%20tester's%20guide.pdf">Download</a> </li>
 
